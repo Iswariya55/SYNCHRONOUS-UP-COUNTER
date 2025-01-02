@@ -42,6 +42,9 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 5.	For different input combinations generate the timing diagram.
 
+**truth table**
+
+![Screenshot 2025-01-02 164136](https://github.com/user-attachments/assets/437f945f-46ec-42a0-92db-2ebdd7846fa3)
 
 **PROGRAM**
 
@@ -67,15 +70,11 @@ endmodule
 ![Screenshot 2024-12-23 203631](https://github.com/user-attachments/assets/d73e36ee-167a-42ed-8036-e2535ebae0a1)
 
 
-**TIMING DIAGRAM FOR IP COUNTER**
+**TIMING DIAGRAM FOR UP COUNTER**
 
-![Screenshot 2024-12-23 203917](https://github.com/user-attachments/assets/ff79f97f-10b2-4d97-a3d3-1773a837bece)
+![Screenshot 2025-01-02 164202](https://github.com/user-attachments/assets/1d71b541-9b84-4dbf-9740-c1c37d40c9d3)
 
 
-
-**TRUTH TABLE**
-
-![image](https://github.com/user-attachments/assets/e471674d-a684-466b-b2f2-1003a7c18f9a)
 
 
 **RESULTS**
